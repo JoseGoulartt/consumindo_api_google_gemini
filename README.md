@@ -1,0 +1,2 @@
+# consumindo_api_google_gemini
+consumindo_api_google_gemini
